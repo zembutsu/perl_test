@@ -1,4 +1,4 @@
 #!/usr/bin/perl
 
-print "Hello world \n";
-#print "Hey world!\n";
+#print "Hello world \n";
+print "Hey world!\n";
